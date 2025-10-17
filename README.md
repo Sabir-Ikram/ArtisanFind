@@ -54,8 +54,9 @@ Then access the project at: [http://localhost:8000](http://localhost:8000)
 ---
 
 ## App Preview
-
+Artisan Profile
 <img width="498" height="223" alt="image" src="https://github.com/user-attachments/assets/090974b5-3293-4877-b6bc-a8e12304e18f" />
+Client Reservation Form
 <img width="498" height="223" alt="image" src="https://github.com/user-attachments/assets/427ca37f-bfd6-4ec5-85ce-fcaeb077f058" />
 
 
